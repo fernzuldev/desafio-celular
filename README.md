@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
@@ -20,3 +21,6 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+=======
+# desafio-celular
+>>>>>>> e907736ab9fc4092539aa2d31860fb28efed9765
